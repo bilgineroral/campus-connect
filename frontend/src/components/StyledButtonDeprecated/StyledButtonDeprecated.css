@@ -1,0 +1,15 @@
+.styled-btn {
+    font-weight: 500;
+    font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+    font-size: 1em;
+
+    cursor: pointer;
+    transition: border-color 0.25s;
+    justify-self: center;
+    align-self: center;
+
+    width: 80%;
+    border-radius: 8px;
+    padding: 0.8em 1em;
+    position: relative;
+}
