@@ -1,7 +1,5 @@
 # CampusConnect
 
-**Updated:**  Follow the link to watch a video that shows how CRUD operations are done on the application.  
-https://www.youtube.com/watch?v=paLx7LL0IxM  
 **Final Update:** Follow the link to watch the teaser of our application: https://www.youtube.com/watch?v=THipv1SdfO0
 
 CampusConnect is more than just a social network; it's a platform designed to elevate your university experience. Whether you're looking for lost items, sharing or selling textbooks, or connecting with fellow students, CampusConnect has got you covered.
